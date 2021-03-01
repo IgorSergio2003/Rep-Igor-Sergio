@@ -1,3 +1,5 @@
 amora 
 abacaxi
 morango
+maçã
+banana
