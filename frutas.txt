@@ -3,3 +3,5 @@ abacaxi
 morango
 maçã
 melancia
+melão
+maracujá
